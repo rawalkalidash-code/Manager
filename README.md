@@ -1,0 +1,2 @@
+# Manager
+Its managing platform
